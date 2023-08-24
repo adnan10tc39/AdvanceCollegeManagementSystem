@@ -1,0 +1,3 @@
+ttkthemes
+mysql-connector-python
+tkcalendar
